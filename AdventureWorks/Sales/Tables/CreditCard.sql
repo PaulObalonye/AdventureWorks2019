@@ -1,4 +1,3 @@
---Justediting this table
 CREATE TABLE [Sales].[CreditCard] (
     [CreditCardID] INT           IDENTITY (1, 1) NOT NULL,
     [CardType]     NVARCHAR (50) NOT NULL,
