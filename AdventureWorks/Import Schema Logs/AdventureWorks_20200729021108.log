@@ -1,0 +1,10 @@
+7/28/2020 10:11:08 PM	This log contains information about the import schema operation into project 'AdventureWorks' on computer 'CLEVELANDAFRICA' by user 'obalo'.
+7/28/2020 10:11:08 PM	Deserializing model
+7/28/2020 10:11:10 PM	Resolving model
+7/28/2020 10:11:11 PM	Visiting imported model for types
+7/28/2020 10:11:12 PM	Scanning project for duplicate elements
+7/28/2020 10:11:12 PM	Finished duplicate element processing
+7/28/2020 10:11:32 PM	Processing extra files
+7/28/2020 10:11:32 PM	Finished importing Data-tier Application file.
+7/28/2020 10:11:32 PM	A summary of the import was saved to the following location: C:\Users\obalo\source\repos\AdventureWorks\AdventureWorks\Import Schema Logs\AdventureWorks_20200729021108.log
+7/28/2020 10:11:32 PM	Click Finish to continue...
